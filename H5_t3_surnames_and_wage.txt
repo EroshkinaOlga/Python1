@@ -1,0 +1,5 @@
+Ivanov 20000
+Petrov 30000
+Lavrov 3000000
+MarIvanna 15000
+MarPetrovna 10000
